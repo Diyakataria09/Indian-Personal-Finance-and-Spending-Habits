@@ -73,7 +73,7 @@ Visualizes income distribution by family size (dependent groups).
 Show the distribution of city tiers and disposable income percentages.
 
 # Usage
-1. Open the Power BI file (finance_dashboard.pbix) to interact with the dashboard.
+1. Open the Power BI file (https://drive.google.com/file/d/1x11uuWR7CAYoqLaWaQp-t_2oJ9Nhye7o/view?usp=sharing) to interact with the dashboard.
 2. Use slicers to filter data by City Tier, Age Group, and Dependent Group.
 3. Hover over charts to view detailed tooltips for precise insights.
 # Future Enhancements
